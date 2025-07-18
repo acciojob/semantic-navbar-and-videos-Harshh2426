@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+video{
+	
+	width: 400px;
+	height: auto;
+	object-fit: cover;
+}
